@@ -1,4 +1,4 @@
 name: jenapp, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-remote-theme: Feeling Responsive
+remote_theme: Feeling Responsive
